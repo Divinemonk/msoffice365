@@ -6,8 +6,9 @@
 <br>
 
 ## Activation Steps 🪛
+> [PROTIP] Download all resources at once ([__Click here__](https://github.com/Divinemonk/msoffice365/archive/refs/tags/downloads.zip) to start downloading all (3) files as zip)
 
-- Download ⬇️ `Office Setup` Executable ([__Click here__]() to start downloading)
+- Download ⬇️ `Office Setup` Executable ([__Click here__](https://github.com/Divinemonk/msoffice365/releases/download/downloads/OfficeSetup.exe) to start downloading)
     - Download size : `7 MB`
 
 <br>
@@ -20,8 +21,8 @@
 <br>
 
 - Download ⬇️ activator script 
-    - Microsoft Office `2016 License` Activation Script | &nbsp; ([__Click here__]() to start downloading)
-    - Microsoft Office `2019 License` Activation Script | &nbsp; ([__Click here__]() to start downloading)
+    - Microsoft Office `2016 License` Activation Script | &nbsp; ([__Click here__](https://github.com/Divinemonk/msoffice365/releases/download/downloads/office_2016.cmd) to start downloading)
+    - Microsoft Office `2019 License` Activation Script | &nbsp; ([__Click here__](https://github.com/Divinemonk/msoffice365/releases/download/downloads/office_2019.cmd) to start downloading)
 
 <br>
 
