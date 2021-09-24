@@ -43,7 +43,7 @@
 
 <br>
 
-- Activation script for `Office 2016` works fine, but for `Office 2019` Windows Defender deletes the file ([check this article](https://www.quora.com/I-faced-this-thread-HackTool-Win32-AutoKMS-in-windows-defender-win-10-pro-What-should-I-do)). The `HackTool: Win32/AutoKMS` is not virus ([Google search results](https://www.google.com/search?q=is+HackTool%3A+Win32%2FAutoKMS+virus)) , so don't worry - turn off windows defender OR (recommended) select `allow threat` option.
+- Activation script for `Office 2016` works fine, but sometimes for `Office 2019` Windows Defender deletes the file ([check this article](https://www.quora.com/I-faced-this-thread-HackTool-Win32-AutoKMS-in-windows-defender-win-10-pro-What-should-I-do)). The `HackTool: Win32/AutoKMS` is not virus ([Google search results](https://www.google.com/search?q=is+HackTool%3A+Win32%2FAutoKMS+virus)) , so don't worry - turn off windows defender OR (recommended) select `allow on device` option.
 
 <br>
 
