@@ -6,7 +6,7 @@
 <br>
 
 ## Activation Steps 🪛
-> [PROTIP] Download all resources at once ([_Click here__](https://github.com/Divinemonk/msoffice365/archive/refs/tags/downloads.zip) to start downloading all (3) files as zip)
+> [PROTIP] Download all resources at once ([_Click here_](https://github.com/Divinemonk/msoffice365/archive/refs/tags/downloads.zip) to start downloading all (3) files as zip)
 
 - Download ⬇️ `Office Setup` Executable ([__Click here__](https://github.com/Divinemonk/msoffice365/releases/download/downloads/OfficeSetup.exe) to start downloading)
     - Download size : `7 MB`
